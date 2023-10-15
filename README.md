@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://i.pinimg.com/originals/e9/fc/99/e9fc993819a6e4932c0c655b55918c51.gif)
 #  About Me:
 -My name is Avi<br>-I'm currently working on my personal projects<br>-I am a computer science student <br>-I'm currently in third year of my college<br>
 
