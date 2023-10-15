@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avi</h1>
 <h3 align="center">A computer science student</h3>
 
-<img align="right" alt="gif" width="400px" src="https://i.pinimg.com/originals/72/34/fe/7234fe343d91346eeb4b841331622ec3.gif">
+<img align="right" alt="gif" width="400px" src="https://i.pinimg.com/originals/0f/33/8e/0f338e9eeb71c7d7f1ff79a3a9c5dc33.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spikree&label=Profile%20views&color=0e75b6&style=flat" alt="spikree" /> </p>
 
