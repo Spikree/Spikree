@@ -1,4 +1,4 @@
-![logo](https://pin.it/45DlOqn)
+
 #  About Me:
 -My name is Avi<br>-I'm currently working on my personal projects<br>-I am a computer science student <br>-I'm currently in third year of my college<br>
 
