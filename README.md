@@ -1,4 +1,4 @@
-![logo](https://i.pinimg.com/originals/e9/fc/99/e9fc993819a6e4932c0c655b55918c51.gif)
+![logo](https://i.pinimg.com/originals/29/14/97/2914979d57cf620dbf74856235f6f704.gif)
 #  About Me:
 -My name is Avi<br>-I'm currently working on my personal projects<br>-I am a computer science student <br>-I'm currently in third year of my college<br>
 
