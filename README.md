@@ -1,6 +1,6 @@
 
 #  About Me:
--My name is Avi<br>-I'm currently working on my personal projects<br>-I am a computer science student <br>-I'm currently in third year of my college<br>-I would like to colobrate on projects<br>-Ask me about project collaboration<br><be>
+-My name is Avi<br>-I'm currently working on my personal projects<br>-I am a computer science student <br>-I'm currently in third year of my college<br>-I would like to colobrate on projects<br>-Ask me about project collaboration<br>
 
 <img align="right" alt="gif" width="400px" src="https://i.pinimg.com/originals/0f/33/8e/0f338e9eeb71c7d7f1ff79a3a9c5dc33.gif">
 
