@@ -9,7 +9,7 @@ I'm a computer science student pursuing my dream to be a software engineer, I'm 
 
 * 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm Batman (fr)
+* ⚡  I'm Batman
 
 
 <b>Tech stack</b>
