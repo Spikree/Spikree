@@ -7,7 +7,7 @@ Web Developer and Mobile app developer
 
 I'm a computer science student pursuing my dream to be a software engineer, I'm currently in 3rd year of my college and I'm working as an intern and working on my personal projects too
 
-* 🧠  I'm learning Flutter
+* 🧠  I'm learning dsa via leetcode and different frame works
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm Batman!!!
 
