@@ -9,7 +9,7 @@ I'm a computer science student pursuing my dream to be a software engineer, I'm 
 
 * 🧠  I'm learning dsa via leetcode and different frame works
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm Batman!!!
+* ⚡  I'm Batman!!
 
 
 # 💻 Tech Stack:
