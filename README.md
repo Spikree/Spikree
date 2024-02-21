@@ -35,7 +35,7 @@ I'm a computer science student pursuing my dream to become a software engineer, 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Spikree&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Spikree&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Spikree&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 
 
