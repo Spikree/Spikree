@@ -2,7 +2,7 @@
 Hi My name is Avi.
 ====================
 
-Web Developer and Mobile app developer
+fullstack Web Developer and Mobile app developer
 --------------------------------------
 
 I'm a computer science student pursuing my dream to become a software engineer, I'm currently in the 6th sem of my degree and I'm working as a software developer intern
