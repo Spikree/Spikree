@@ -6,15 +6,15 @@ fullstack Web Developer and Mobile app developer
 --------------------------------------
 Computer Science Masters Student at University Of Strathclyde
 
-Experience : 
+**Experience** : 
 
 I have internship experiences in full stack web developement
 
-Currently Learning :
+**Currently Learning** :
 
-I am currently doing my masters from University Of Strathclyde in Advanced Computer Science, I am mostly focused on devloping software applications be it on mobile or on the web. 
+I am currently doing my masters from University Of Strathclyde in Advanced Computer Science, I am mostly focused on devloping software applications be it on mobile or on the web. If you wanna collaborate on any projects you can send me an email on avimahalingpure10@gmail.com 
 
-Tech Stack I use :
+**Tech Stack I use** :
 
 React JS
 Vue Js
